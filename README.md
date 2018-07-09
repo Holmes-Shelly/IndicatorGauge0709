@@ -1,0 +1,1 @@
+# IndicatorGauge0709
